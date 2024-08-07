@@ -40,7 +40,7 @@
 pen Command Prompt:
 Press Win + R, type cmd, and press Enter.
 
-foe example
+for example
 cd path\to\extracted\folder
 ````
 ## install office
